@@ -1,0 +1,50 @@
+#############
+#
+# See dcycleproject.org
+#
+# Authored by Albert Albala (@alberto56)
+#
+# This slideshow uses
+#
+#  * [Deck.js](http://imakewebthings.com/deck.js/) for the slideshow
+#  * GitHub and GitHub Pages for hosting
+#  * [Jekyll](http://jekyllrb.com) for converting yaml into HTML for deck.js
+#
+# See https://github.com/alberto56/presentation_fours_solaires
+# See http://alberto56.github.io/presentation_fours_solaires/
+# See http://www.drupalnorth.org/en/session/une-introduction-a-docker
+#
+#############
+
+- id: a19
+  title: La cuisson solaire
+  desc: |
+    par Albert Albala
+
+#############
+
+- id: a32
+  title: Introductions
+  desc: |
+    Quelle est votre expérience avec les fours solaires
+
+#############
+
+- id: a39
+  title: Types de fours
+  desc: |
+
+#############
+
+- id: a56
+  title: Défis
+  desc: |
+
+#############
+
+- id: a22820150626141903
+  title: Questions
+  desc: |
+    Albert Albala (@alberto56)
+
+    Cette présentation est ouverte. Vous pouvez la [cloner ou la modifier sur github.com/alberto56/presentation_fours_solaires](https://github.com/alberto56/presentation_fours_solaires/edit/gh-pages/_data/slides.yml)
