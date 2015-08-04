@@ -29,4 +29,51 @@
      * Que voulons-nous apprendre?
      * Quelle est votre expérience avec les fours solaires
 
+#############
+
+- id: a34
+  title: Au menu
+  desc: |
+     * Pourquoi un four solaire?
+     * De quoi a-t-on besoin?
+     * Comment ça marche?
+     * Types de fours
+     * Éléments pour construire un four
+     * Défis
+     * En faire la vente
+
+#############
+
+- id: a48
+  title: Pourquoi un four solaire?
+  desc: |
+     * Pour des raisons economiques et écologiques.
+     * Alternative aux combustibles fossiles.
+     * Alternative au charbon de bois.
+     * Peu coûteux.
+     * Une option en plus de ce qui est fait actuellement.
+
+#############
+
+- id: a59
+  title: De quoi a-t-on besoin?
+  desc: |
+     * Ensoleillement
+    <img src="images/map.gif" />
+
+#############
+
+- id: a67
+  title: De quoi a-t-on besoin?
+  desc: |
+     * Surface réfléchissante (papier aluminium)
+    <img src="images/need_alu.png" />
+
+#############
+
+- id: a75
+  title: De quoi a-t-on besoin?
+  desc: |
+     * Carton
+    <img src="images/need_cardboard.png" />
 
