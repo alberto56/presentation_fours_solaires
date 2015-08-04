@@ -53,4 +53,12 @@
      * Peu coûteux.
      * Une option en plus de ce qui est fait actuellement.
 
+#############
+
+- id: a59
+  title: De quoi a-t-on besoin?
+  desc: |
+     * Ensoleillement
+    <img src="images/map.gif" />
+
 
