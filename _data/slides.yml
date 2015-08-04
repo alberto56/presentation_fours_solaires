@@ -26,6 +26,7 @@
 - id: a32
   title: Introductions
   desc: |
+     * Mon expertise.
      * Que voulons-nous apprendre?
      * Quelle est votre expérience avec les fours solaires
 
@@ -38,9 +39,9 @@
      * De quoi a-t-on besoin?
      * Comment ça marche?
      * Types de fours
-     * Éléments pour construire un four
      * Défis
      * En faire la vente
+     * Atelier pratique
 
 #############
 
@@ -71,7 +72,23 @@
 
 #############
 
-- id: a75
+- id: a74
+  title: De quoi a-t-on besoin?
+  desc: |
+    Plastique qui ne fond pas.
+    <img src="images/need_ovenbag_over.png" />
+
+#############
+
+- id: a83
+  title: De quoi a-t-on besoin?
+  desc: |
+    Plastique qui ne fond pas... dur à trouver à l'extérieur de l'Amérique.
+    <img src="images/need_ovenbags.png" />
+
+#############
+
+- id: a7590
   title: De quoi a-t-on besoin?
   desc: |
     Carton
@@ -79,23 +96,7 @@
 
 #############
 
-- id: a83
-  title: De quoi a-t-on besoin?
-  desc: |
-    Plastique qui ne fond pas
-    <img src="images/need_ovenbag_over.png" />
-
-#############
-
-- id: a91
-  title: De quoi a-t-on besoin?
-  desc: |
-    Plastique qui ne fond pas
-    <img src="images/need_ovenbags.png" />
-
-#############
-
-- id: a98
+- id: a98106
   title: De quoi a-t-on besoin?
   desc: |
     Support (ou trois roches)
@@ -119,6 +120,29 @@
 
 #############
 
+- id: a114122
+  title: De quoi a-t-on besoin?
+  desc: |
+    Expérimenter!
+    <img src="images/cds.jpg" />
+
+#############
+
+- id: a122122
+  title: Comment ça marche?
+  desc: |
+     * Avec la concentration des rayons du soleil
+     * Avec l'effet de serre
+
+#############
+
+- id: a122122130
+  title: Comment ça marche?
+  desc: |
+    <img src="images/schema.png" />
+
+#############
+
 - id: a43
   title: Type de four 1. Le "Cookit".
   desc: |
@@ -136,34 +160,69 @@
 #############
 
 - id: a59
-  title: Type de four 2. Le "Cookit".
+  title: Type de four 2. La boîte.
   desc: |
-     <img src="images/cookit.jpg" />
+     <img src="images/box.png" />
 
 #############
 
 - id: a66
-  title: Type de four 1. Le "Cookit".
+  title: Type de four 2. La boîte.
   desc: |
-     * Simple
-     * Peu coûteux
-     * Mais... cuit assez peu en quantité
+     * Plus complexe
+     * Quantité plus grande de bouffe
      CDs
 
 #############
 
-- id: a56
-  title: Défis
+- id: a56177
+  title: Défi culturel
   desc: |
-   culturels
-     * Défi de la friture
-     * Défi du temps de cuisson
+    Il est dur pour l'être humain de changer ses habitudes, partout dans monde!
+    <img src="images/kitchen_na.png" />
+    <img src="images/kitchen_ghana.png" />
+
+#############
+
+- id: a56186
+  title: Le défi de la friture
+  desc: |
+     Peut-on trouver un four solaire qui frit les aliments?
+     <img src="images/fry.png" />
+     <img src="images/teapot.png" />
+
+#############
+
+- id: a56196
+  title: Le défi du temps de cuisson
+  desc: |
+    Nous devons adapter le temps de cuisson avec le four solaire.
+
+#############
+
+- id: a56203
+  title: En faire la vente
+  desc: |
+    * Y a-t-il un marché pour en faire une business?
+    * Peut-on créer la demande?
+    * Y aura-t-il une résistance?
+    * Combien seront-ils prêts à payer?
+    * Sera-t-il difficile de constuire de tels fours?
+
+#############
+
+- id: a56214
+  title: Atelier pratique
+  desc: |
+     * Consruire un four
+     * Préparer la nourriture
+     * Dégustation
 
 #############
 
 - id: a22820150626141903
   title: Questions
   desc: |
-    Albert Albala (@alberto56)
+    Albert Albala
 
     Cette présentation est ouverte. Vous pouvez la [cloner ou la modifier sur github.com/alberto56/presentation_fours_solaires](https://github.com/alberto56/presentation_fours_solaires/edit/gh-pages/_data/slides.yml)
