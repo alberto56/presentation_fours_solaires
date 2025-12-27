@@ -3,7 +3,7 @@ backend:
   repo: alberto56/presentation_fours_solaires
   branch: gh-pages
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3d97c6e2b059bec6679
+  auth_endpoint: /auth/github/repo/694f514218f56cc3582664f7
 media_folder: static/uploads
 public_folder: /uploads
 collections:
